@@ -1,5 +1,5 @@
 import os
-from TextSummarizer.logging import logger
+from src.TextSummarizer.logging import logger
 from transformers import AutoTokenizer
 from datasets import load_dataset, load_from_disk
 
