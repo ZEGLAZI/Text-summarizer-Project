@@ -10,4 +10,4 @@ RUN pip install --upgrae accelerate
 RUN pip install uninstall -y transforms accelerate
 RUN pip install transforms accelerate
 
-CMD ["python3, "app.py"]
+CMD ["python3", "app.py"]
